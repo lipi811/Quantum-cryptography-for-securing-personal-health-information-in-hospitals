@@ -1,0 +1,42 @@
+/* Make the table responsive */
+table {
+    width: 100%; /* Make table width responsive */
+    table-layout: fixed; /* Fixed table layout */
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    word-wrap: break-word; /* Ensure long text wraps */
+}
+
+th {
+    background-color: #333333;
+    color: white;
+    font-weight: bold;
+}
+
+td {
+    color: #333;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    table {
+        font-size: 12px; /* Reduce font size for small screens */
+    }
+
+    th, td {
+        padding: 10px; /* Reduce padding for small screens */
+    }
+}

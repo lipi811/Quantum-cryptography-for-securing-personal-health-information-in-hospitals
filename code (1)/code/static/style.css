@@ -1,0 +1,63 @@
+body{
+  margin: 0;
+
+  
+}
+
+.form {
+  float: right;
+  margin-right: 20px;
+  width: 50%;
+  padding: 10px;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 17px;
+
+}
+
+form label {
+  display: block;
+  margin-top: 10px;
+}
+
+form input[type="text"], form input[type="number"], form input[type="tel"], form input[type="password"],form input[type="email"], form input[type="date"], form input[type="time"], form textarea, form select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+form input[type="submit"] {
+  background-color: #750043;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+  background-color: #45a049;
+}
+.flashes{
+  color: red;
+}
+.linkbtn{
+  text-decoration: none;
+  background-color: #750043;
+  color: white;
+  padding: 5px;
+}
+
+.linkbtn:hover{
+  text-decoration: none;
+  background-color: red;
+  color: white;
+}
+#tearea{
+  width: 100%;
+  border: none;
+}

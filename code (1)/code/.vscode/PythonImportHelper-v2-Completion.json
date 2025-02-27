@@ -1,0 +1,730 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "mysql.connector",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mysql.connector",
+        "description": "mysql.connector",
+        "detail": "mysql.connector",
+        "documentation": {}
+    },
+    {
+        "label": "HKDF",
+        "importPath": "cryptography.hazmat.primitives.kdf.hkdf",
+        "description": "cryptography.hazmat.primitives.kdf.hkdf",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.kdf.hkdf",
+        "documentation": {}
+    },
+    {
+        "label": "AES",
+        "importPath": "Crypto.Cipher",
+        "description": "Crypto.Cipher",
+        "isExtraImport": true,
+        "detail": "Crypto.Cipher",
+        "documentation": {}
+    },
+    {
+        "label": "AES",
+        "importPath": "Crypto.Cipher",
+        "description": "Crypto.Cipher",
+        "isExtraImport": true,
+        "detail": "Crypto.Cipher",
+        "documentation": {}
+    },
+    {
+        "label": "AES",
+        "importPath": "Crypto.Cipher",
+        "description": "Crypto.Cipher",
+        "isExtraImport": true,
+        "detail": "Crypto.Cipher",
+        "documentation": {}
+    },
+    {
+        "label": "pad",
+        "importPath": "Crypto.Util.Padding",
+        "description": "Crypto.Util.Padding",
+        "isExtraImport": true,
+        "detail": "Crypto.Util.Padding",
+        "documentation": {}
+    },
+    {
+        "label": "unpad",
+        "importPath": "Crypto.Util.Padding",
+        "description": "Crypto.Util.Padding",
+        "isExtraImport": true,
+        "detail": "Crypto.Util.Padding",
+        "documentation": {}
+    },
+    {
+        "label": "pad",
+        "importPath": "Crypto.Util.Padding",
+        "description": "Crypto.Util.Padding",
+        "isExtraImport": true,
+        "detail": "Crypto.Util.Padding",
+        "documentation": {}
+    },
+    {
+        "label": "unpad",
+        "importPath": "Crypto.Util.Padding",
+        "description": "Crypto.Util.Padding",
+        "isExtraImport": true,
+        "detail": "Crypto.Util.Padding",
+        "documentation": {}
+    },
+    {
+        "label": "unpad",
+        "importPath": "Crypto.Util.Padding",
+        "description": "Crypto.Util.Padding",
+        "isExtraImport": true,
+        "detail": "Crypto.Util.Padding",
+        "documentation": {}
+    },
+    {
+        "label": "get_random_bytes",
+        "importPath": "Crypto.Random",
+        "description": "Crypto.Random",
+        "isExtraImport": true,
+        "detail": "Crypto.Random",
+        "documentation": {}
+    },
+    {
+        "label": "get_random_bytes",
+        "importPath": "Crypto.Random",
+        "description": "Crypto.Random",
+        "isExtraImport": true,
+        "detail": "Crypto.Random",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "quantumrandom",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "quantumrandom",
+        "description": "quantumrandom",
+        "detail": "quantumrandom",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "secure_filename",
+        "importPath": "werkzeug.utils",
+        "description": "werkzeug.utils",
+        "isExtraImport": true,
+        "detail": "werkzeug.utils",
+        "documentation": {}
+    },
+    {
+        "label": "sha256",
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "isExtraImport": true,
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "sha256",
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "isExtraImport": true,
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "mailing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mailing",
+        "description": "mailing",
+        "detail": "mailing",
+        "documentation": {}
+    },
+    {
+        "label": "QuantumCircuit",
+        "importPath": "qiskit",
+        "description": "qiskit",
+        "isExtraImport": true,
+        "detail": "qiskit",
+        "documentation": {}
+    },
+    {
+        "label": "execute",
+        "importPath": "qiskit",
+        "description": "qiskit",
+        "isExtraImport": true,
+        "detail": "qiskit",
+        "documentation": {}
+    },
+    {
+        "label": "Aer",
+        "importPath": "qiskit",
+        "description": "qiskit",
+        "isExtraImport": true,
+        "detail": "qiskit",
+        "documentation": {}
+    },
+    {
+        "label": "AerSimulator",
+        "importPath": "qiskit.providers.aer",
+        "description": "qiskit.providers.aer",
+        "isExtraImport": true,
+        "detail": "qiskit.providers.aer",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEMultipart",
+        "importPath": "email.mime.multipart",
+        "description": "email.mime.multipart",
+        "isExtraImport": true,
+        "detail": "email.mime.multipart",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "dbconnection",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def dbconnection():\n    con = mq.connect(host='localhost', database='quantumcrypt',user='root',password='root')\n    return con\n@app.route('/')\ndef home():\n    return render_template('index.html')\n@app.route('/loginpage')\ndef loginpage():\n    return render_template('login.html')\n@app.route('/registerpage')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def home():\n    return render_template('index.html')\n@app.route('/loginpage')\ndef loginpage():\n    return render_template('login.html')\n@app.route('/registerpage')\ndef registerpage():\n    return render_template('register.html')\n@app.route('/register', methods=['GET', 'POST'])\ndef register():",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "loginpage",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def loginpage():\n    return render_template('login.html')\n@app.route('/registerpage')\ndef registerpage():\n    return render_template('register.html')\n@app.route('/register', methods=['GET', 'POST'])\ndef register():\n    if request.method == 'POST':\n        email = request.form.get('email')\n        password = request.form.get('password')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "registerpage",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def registerpage():\n    return render_template('register.html')\n@app.route('/register', methods=['GET', 'POST'])\ndef register():\n    if request.method == 'POST':\n        email = request.form.get('email')\n        password = request.form.get('password')\n        role = request.form.get('role')\n        con = dbconnection()\n        cursor = con.cursor()",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def register():\n    if request.method == 'POST':\n        email = request.form.get('email')\n        password = request.form.get('password')\n        role = request.form.get('role')\n        con = dbconnection()\n        cursor = con.cursor()\n        cursor.execute(\"select * from user where email='{}' and password='{}' and role='{}'\".format(email,password,role))\n        res = cursor.fetchall()\n        if res==[]:",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "docdash",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def docdash():\n    did = session[\"did\"]\n    con = dbconnection()\n    cursor = con.cursor()\n    cursor.execute(\"select * from patient where did='{}' order by id desc\".format(int(did)))\n    res2 = cursor.fetchall()\n    return render_template('doctor_dashboard.html',res=res2)\n@app.route('/patient_dashboard')\ndef patient_dashboard():\n    pid = session[\"pid\"]",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "patient_dashboard",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def patient_dashboard():\n    pid = session[\"pid\"]\n    con = dbconnection()\n    cursor = con.cursor()\n    cursor.execute(\"select * from patient where id='{}' order by id desc\".format(int(pid)))\n    res2 = cursor.fetchall()\n    return render_template('patient_dashboard.html',res=res2)\n@app.route('/login', methods=['GET', 'POST'])\ndef login():\n    if request.method == 'POST':",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def login():\n    if request.method == 'POST':\n        email = request.form.get('email')\n        password = request.form.get('password')\n        ltype = request.form.get('ltype')\n        con = dbconnection()\n        cursor = con.cursor()\n        if ltype == 'radiologist':\n            cursor.execute(\"select * from user where email='{}' and password='{}' and role='{}'\".format(email,password,ltype))\n            res = cursor.fetchall()",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "simulate_quantum_key_exchange",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def simulate_quantum_key_exchange(key_length):\n    try:\n        import quantumrandom\n        binary_key = ''.join(str(quantumrandom.randint(0, 1)) for _ in range(key_length))\n    except Exception:\n        binary_key = ''.join(str(random.randint(0, 1)) for _ in range(key_length))\n    # Convert binary key to hexadecimal\n    hex_key = hex(int(binary_key, 2))[2:].zfill(key_length // 4)\n    return hex_key\n# Encrypt data with AES",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_data",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def encrypt_data(data, hex_key):\n    key = bytes.fromhex(hex_key)\n    iv = get_random_bytes(16)\n    cipher = AES.new(key, AES.MODE_CBC, iv)\n    padded_data = pad(data.encode('utf-8'), AES.block_size)\n    encrypted_data = cipher.encrypt(padded_data)\n    signature = sha256(padded_data).hexdigest()\n    return iv + encrypted_data, signature  # Prepend IV for decryption\n# Encrypt image with AES\ndef encrypt_image(input_path, hex_key):",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_image",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def encrypt_image(input_path, hex_key):\n    key = bytes.fromhex(hex_key)\n    cipher = AES.new(key, AES.MODE_CBC)\n    iv = cipher.iv\n    with open(input_path, 'rb') as file:\n        image_data = file.read()\n    encrypted_data = cipher.encrypt(pad(image_data, AES.block_size))\n    encrypted_image = iv + encrypted_data\n    signature = sha256(encrypted_image).hexdigest()\n    encrypted_image_path = os.path.join('static/uploads', f\"encrypted_{os.path.basename(input_path)}\")",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "radiologist_dashboard",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def radiologist_dashboard():\n    con = dbconnection()\n    cursor = con.cursor()\n    cursor.execute(\"select * from user where role='{}'\".format(\"doctor\"))\n    res = cursor.fetchall()\n    if res==[]:\n        flash(f\"Error saving data: {e}\", 'danger')\n        return render_template('radiologist_dashboard.html')\n    if request.method == 'POST':\n        name = request.form.get('name')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_data",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def decrypt_data(encrypted_data, hex_key):\n    key = bytes.fromhex(hex_key)\n    iv = encrypted_data[:16]\n    encrypted_content = encrypted_data[16:]\n    cipher = AES.new(key, AES.MODE_CBC, iv)\n    decrypted_data = unpad(cipher.decrypt(encrypted_content), AES.block_size)\n    return decrypted_data.decode('utf-8')\n# Decrypt image with AES\ndef decrypt_image(encrypted_image_path, hex_key):\n    key = bytes.fromhex(hex_key)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_image",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def decrypt_image(encrypted_image_path, hex_key):\n    key = bytes.fromhex(hex_key)\n    with open(encrypted_image_path, 'rb') as file:\n        encrypted_image = file.read()\n    iv = encrypted_image[:16]\n    encrypted_content = encrypted_image[16:]\n    cipher = AES.new(key, AES.MODE_CBC, iv)\n    decrypted_image_data = unpad(cipher.decrypt(encrypted_content), AES.block_size)\n    return base64.b64encode(decrypted_image_data).decode('utf-8')\n@app.route('/patdecryptdata', methods=['POST', 'GET'])",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "patdecryptdata",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def patdecryptdata():\n    if request.method == 'POST':\n        patient_id = request.form.get('patientid')\n        hex_key = request.form.get('key')\n        if len(hex_key) != 32:\n            flash(\"Invalid key length. Please use a 128-bit hexadecimal key.\", 'danger')\n            return redirect(url_for('patient_dashboard'))\n        con = dbconnection()\n        cursor = con.cursor()\n        cursor.execute(\"SELECT * FROM patient WHERE id=%s\", (patient_id,))",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "doc_decrypt_data",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def doc_decrypt_data():\n    if request.method == 'POST':\n        patient_id = request.form.get('patientid')\n        hex_key = request.form.get('key')\n        if len(hex_key) != 32:\n            flash(\"Invalid key length. Please use a 128-bit hexadecimal key.\", 'danger')\n            return redirect(url_for('docdash'))\n        con = dbconnection()\n        cursor = con.cursor()\n        cursor.execute(\"SELECT * FROM patient WHERE id=%s\", (patient_id,))",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "gensignature",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def gensignature(data):\n    padded_data = pad(data.encode('utf-8'), AES.block_size)\n    signature = sha256(padded_data).hexdigest()\n    return signature\n@app.route('/gensignature' , methods=['POST', 'GET'])\ndef generatesignature():\n    print(\"called\")\n    data = request.get_json()\n    patient_id = data.get('patient_id')\n    name = data.get('name')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "generatesignature",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def generatesignature():\n    print(\"called\")\n    data = request.get_json()\n    patient_id = data.get('patient_id')\n    name = data.get('name')\n    age = data.get('age')\n    gender = data.get('gender')\n    phone = data.get('phone')\n    address = data.get('address')\n    disease_type = data.get('disease_type')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = Flask(__name__)\napp.config['SECRET_KEY'] = 'your_secret_key'\nUPLOAD_FOLDER = 'static/uploads'\nos.makedirs(UPLOAD_FOLDER, exist_ok=True)\ndef dbconnection():\n    con = mq.connect(host='localhost', database='quantumcrypt',user='root',password='root')\n    return con\n@app.route('/')\ndef home():\n    return render_template('index.html')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SECRET_KEY']",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.config['SECRET_KEY'] = 'your_secret_key'\nUPLOAD_FOLDER = 'static/uploads'\nos.makedirs(UPLOAD_FOLDER, exist_ok=True)\ndef dbconnection():\n    con = mq.connect(host='localhost', database='quantumcrypt',user='root',password='root')\n    return con\n@app.route('/')\ndef home():\n    return render_template('index.html')\n@app.route('/loginpage')",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "UPLOAD_FOLDER",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "UPLOAD_FOLDER = 'static/uploads'\nos.makedirs(UPLOAD_FOLDER, exist_ok=True)\ndef dbconnection():\n    con = mq.connect(host='localhost', database='quantumcrypt',user='root',password='root')\n    return con\n@app.route('/')\ndef home():\n    return render_template('index.html')\n@app.route('/loginpage')\ndef loginpage():",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "dbconnection",
+        "kind": 2,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "def dbconnection():\n    con = mq.connect(host='localhost', database='quantumcrypt',user='root',password='root')\n    return con\n@app.route('/')\ndef home():\n    return render_template('login.html')\n@app.route('/registerpage')\ndef registerpage():\n    return render_template('register.html')\n@app.route('/register', methods=['GET', 'POST'])",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "def home():\n    return render_template('login.html')\n@app.route('/registerpage')\ndef registerpage():\n    return render_template('register.html')\n@app.route('/register', methods=['GET', 'POST'])\ndef register():\n    if request.method == 'POST':\n        email = request.form.get('email')\n        password = request.form.get('password')",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "registerpage",
+        "kind": 2,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "def registerpage():\n    return render_template('register.html')\n@app.route('/register', methods=['GET', 'POST'])\ndef register():\n    if request.method == 'POST':\n        email = request.form.get('email')\n        password = request.form.get('password')\n        role = request.form.get('role')\n        con = dbconnection()\n        cursor = con.cursor()",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "def register():\n    if request.method == 'POST':\n        email = request.form.get('email')\n        password = request.form.get('password')\n        role = request.form.get('role')\n        con = dbconnection()\n        cursor = con.cursor()\n        cursor.execute(\"select * from user where email='{}' and password='{}' and role='{}'\".format(email,password,role))\n        res = cursor.fetchall()\n        if res==[]:",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "def login():\n    if request.method == 'POST':\n        email = request.form.get('email')\n        password = request.form.get('password')\n        ltype = request.form.get('ltype')\n        con = dbconnection()\n        cursor = con.cursor()\n        cursor.execute(\"select * from user where email='{}' and password='{}' and role='{}'\".format(email,password,ltype))\n        res = cursor.fetchall()\n        if res!=[]:",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "simulate_quantum_key_exchange",
+        "kind": 2,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "def simulate_quantum_key_exchange(key_size_bytes=16):\n    # Create a quantum circuit\n    num_qubits = key_size_bytes * 8  # Each byte = 8 bits\n    qc = QuantumCircuit(num_qubits, num_qubits)\n    # Apply Hadamard gate to all qubits to create superposition\n    qc.h(range(num_qubits))\n    # Measure the qubits to collapse them to a definite state (0 or 1)\n    qc.measure(range(num_qubits), range(num_qubits))\n    # Execute the quantum circuit on a simulator\n    simulator = AerSimulator()",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_data",
+        "kind": 2,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "def encrypt_data(data, binary_key):\n    key = bytes(binary_key, 'utf-8')[:16]  # AES requires a 128-bit key (16 bytes)\n    iv = get_random_bytes(16)\n    cipher = AES.new(key, AES.MODE_CBC, iv)\n    padded_data = pad(data.encode('utf-8'), AES.block_size)\n    encrypted_data = cipher.encrypt(padded_data)\n    signature = sha256(padded_data).hexdigest()\n    return iv + encrypted_data, signature  # Prepend IV for decryption\n# Encrypt image with AES\ndef encrypt_image(input_path, binary_key):",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_image",
+        "kind": 2,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "def encrypt_image(input_path, binary_key):\n    key = bytes(binary_key, 'utf-8')[:16]  # AES requires a 128-bit key (16 bytes)\n    cipher = AES.new(key, AES.MODE_CBC)\n    iv = cipher.iv\n    with open(input_path, 'rb') as file:\n        image_data = file.read()\n    encrypted_data = cipher.encrypt(pad(image_data, AES.block_size))\n    encrypted_image = iv + encrypted_data\n    signature = sha256(encrypted_image).hexdigest()\n    encrypted_image_path = os.path.join('static/uploads', f\"encrypted_{os.path.basename(input_path)}\")",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "radiologist_dashboard",
+        "kind": 2,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "def radiologist_dashboard():\n    if request.method == 'POST':\n        name = request.form.get('name')\n        age = request.form.get('age')\n        gender = request.form.get('gender')\n        phone = request.form.get('phone')\n        address = request.form.get('address')\n        disease_type = request.form.get('disease_type')\n        medical_image = request.files['medical_image']\n        original_image_path = os.path.join('static/uploads', medical_image.filename)",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_data",
+        "kind": 2,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "def decrypt_data(encrypted_data, hex_key):\n    # Convert the hexadecimal key back to bytes\n    key = bytes.fromhex(hex_key)\n    # Extract the IV (first 16 bytes) and the encrypted content (remaining part)\n    iv = encrypted_data[:16]\n    encrypted_content = encrypted_data[16:]\n    print(\"Key (Hex):\", hex_key)\n    print(\"Key (Bytes):\", key)\n    print(\"IV:\", iv)\n    print(\"Encrypted Content:\", encrypted_content[:50])  # Print first 50 bytes of encrypted content for debugging",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_image",
+        "kind": 2,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "def decrypt_image(encrypted_image_path, hex_key):\n    key = bytes.fromhex(hex_key)\n    # Read the encrypted image from file\n    with open(encrypted_image_path, 'rb') as file:\n        encrypted_image = file.read()\n    # Extract the IV (first 16 bytes) and the encrypted content (remaining part)\n    iv = encrypted_image[:16]\n    encrypted_content = encrypted_image[16:]\n    print(\"Key (Hex):\", hex_key)\n    print(\"Key (Bytes):\", key)",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "doc_decrypt_data",
+        "kind": 2,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "def doc_decrypt_data():\n    if request.method == 'POST':\n        patient_id = request.form.get('patientid')\n        hex_key = request.form.get('key')\n        # Ensure the provided key is of the correct length (32 hex digits for 128 bits)\n        if len(hex_key) != 32:\n            flash(\"Invalid key length. Please use a 128-bit hexadecimal key.\", 'danger')\n            return render_template('docdecryptdata.html')\n        # Connect to the database to retrieve the patient's encrypted data\n        con = dbconnection()",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "gensignature",
+        "kind": 2,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "def gensignature(data):\n    padded_data = pad(data.encode('utf-8'), AES.block_size)\n    signature = sha256(padded_data).hexdigest()\n    return signature\n@app.route('/gensignature' , methods=['POST', 'GET'])\ndef generatesignature():\n    print(\"called\")\n    data = request.get_json()\n    patient_id = data.get('patient_id')\n    name = data.get('name')",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "generatesignature",
+        "kind": 2,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "def generatesignature():\n    print(\"called\")\n    data = request.get_json()\n    patient_id = data.get('patient_id')\n    name = data.get('name')\n    age = data.get('age')\n    gender = data.get('gender')\n    phone = data.get('phone')\n    address = data.get('address')\n    disease_type = data.get('disease_type')",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "app = Flask(__name__)\napp.config['SECRET_KEY'] = 'your_secret_key'\nUPLOAD_FOLDER = 'static/uploads'\nos.makedirs(UPLOAD_FOLDER, exist_ok=True)\ndef dbconnection():\n    con = mq.connect(host='localhost', database='quantumcrypt',user='root',password='root')\n    return con\n@app.route('/')\ndef home():\n    return render_template('login.html')",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SECRET_KEY']",
+        "kind": 5,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "app.config['SECRET_KEY'] = 'your_secret_key'\nUPLOAD_FOLDER = 'static/uploads'\nos.makedirs(UPLOAD_FOLDER, exist_ok=True)\ndef dbconnection():\n    con = mq.connect(host='localhost', database='quantumcrypt',user='root',password='root')\n    return con\n@app.route('/')\ndef home():\n    return render_template('login.html')\n@app.route('/registerpage')",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "UPLOAD_FOLDER",
+        "kind": 5,
+        "importPath": "app2",
+        "description": "app2",
+        "peekOfCode": "UPLOAD_FOLDER = 'static/uploads'\nos.makedirs(UPLOAD_FOLDER, exist_ok=True)\ndef dbconnection():\n    con = mq.connect(host='localhost', database='quantumcrypt',user='root',password='root')\n    return con\n@app.route('/')\ndef home():\n    return render_template('login.html')\n@app.route('/registerpage')\ndef registerpage():",
+        "detail": "app2",
+        "documentation": {}
+    },
+    {
+        "label": "mailsend",
+        "kind": 2,
+        "importPath": "mailing",
+        "description": "mailing",
+        "peekOfCode": "def mailsend(receiver_email,subject,body):\n    # Create message object instance\n    try:\n        message = MIMEMultipart()\n        # Email subject and body\n        message[\"From\"] = sender_email\n        message[\"To\"] = receiver_email\n        message[\"Subject\"] = subject\n        # Add body to email\n        body = body",
+        "detail": "mailing",
+        "documentation": {}
+    },
+    {
+        "label": "sender_email",
+        "kind": 5,
+        "importPath": "mailing",
+        "description": "mailing",
+        "peekOfCode": "sender_email = \"your_email@gmail.com\"\npassword = \"your_email_password\"\ndef mailsend(receiver_email,subject,body):\n    # Create message object instance\n    try:\n        message = MIMEMultipart()\n        # Email subject and body\n        message[\"From\"] = sender_email\n        message[\"To\"] = receiver_email\n        message[\"Subject\"] = subject",
+        "detail": "mailing",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 5,
+        "importPath": "mailing",
+        "description": "mailing",
+        "peekOfCode": "password = \"your_email_password\"\ndef mailsend(receiver_email,subject,body):\n    # Create message object instance\n    try:\n        message = MIMEMultipart()\n        # Email subject and body\n        message[\"From\"] = sender_email\n        message[\"To\"] = receiver_email\n        message[\"Subject\"] = subject\n        # Add body to email",
+        "detail": "mailing",
+        "documentation": {}
+    }
+]

@@ -1,0 +1,135 @@
+  /* General Reset */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Header Styling */
+header {
+    background-color: #1a237e;
+    color: white;
+    padding: 20px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Left Header */
+.left-header h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffcc00;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* Right Navigation */
+.right-nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.right-nav ul li {
+    display: inline;
+}
+
+.right-nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px 16px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.right-nav ul li a:hover {
+    background-color: #ffcc00;
+    color: #1a237e;
+}
+
+/* Main Content Styling */
+main {
+    padding: 40px 20px;
+    max-width: 1200px;
+    margin: 140px auto;
+    background-color: whitesmoke;
+    border-radius: 16px;
+}
+
+.content h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #1a237e;
+}
+
+.content p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #555;
+}
+
+
+/* Custom styling for login page */
+.login-form {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    width: 500px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 530px;
+    margin: 0 auto;
+}
+.login-form .btn-primary {
+    background-color: #1a237e;
+    border: none;
+}
+.login-form .btn-primary:hover {
+    background-color: #ffcc00;
+    color: #1a237e;
+}
+/* Styling for the register page */
+.register-form {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 500px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 560px;
+    margin: 0 auto;
+}
+.register-form .btn-primary {
+    background-color: #1a237e;
+    border: none;
+}
+.register-form .btn-primary:hover {
+    background-color: #ffcc00;
+    color: #1a237e;
+}
+/* Footer Styling */
+footer {
+    background-color: #1a237e;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 200px;
+    font-size: 14px;
+}

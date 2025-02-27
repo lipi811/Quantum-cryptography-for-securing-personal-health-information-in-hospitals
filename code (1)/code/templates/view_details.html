@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>View Patient Details</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2>Patient Details</h2>
+        
+        <div class="card">
+            <div class="card-body">
+                <p><strong>Name:</strong> {{ patient_data.name }}</p>
+                <p><strong>Age:</strong> {{ patient_data.age }}</p>
+                <p><strong>Gender:</strong> {{ patient_data.gender }}</p>
+                <p><strong>Phone:</strong> {{ patient_data.phone }}</p>
+                <p><strong>Address:</strong> {{ patient_data.address }}</p>
+                <p><strong>Disease Type:</strong> {{ patient_data.disease_type }}</p>
+                <p><strong>Medical Image:</strong></p>
+                <img src="{{ url_for('static', filename='uploads/' + details.medical_image.split('/')[-1]) }}" class="img-fluid" alt="Medical Image">
+                <hr>
+                <p><strong>Signature Verified:</strong> 
+                    {% if verified %}
+                        <span class="text-success">Genuine</span>
+                    {% else %}
+                        <span class="text-danger">Modified</span>
+                    {% endif %}
+                </p>
+            </div>
+        </div>
+        
+        <a href="{{ url_for('logout') }}" class="btn btn-secondary w-100 mt-3">Logout</a>
+    </div>
+</body>
+</html>

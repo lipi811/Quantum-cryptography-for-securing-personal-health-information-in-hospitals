@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>View Patient</title>
+</head>
+<body>
+    <h1>Decrypted Patient Details</h1>
+    {% if data %}
+    <p><strong>Name:</strong> {{ data.name }}</p>
+    <p><strong>Age:</strong> {{ data.age }}</p>
+    <p><strong>Gender:</strong> {{ data.gender }}</p>
+    <p><strong>Phone:</strong> {{ data.phone }}</p>
+    <p><strong>Address:</strong> {{ data.address }}</p>
+    <p><strong>Disease Type:</strong> {{ data.disease_type }}</p>
+    <p><strong>Medical Image:</strong></p>
+    <img src="{{ url_for('static', filename='uploads/' + patient.medical_image) }}" alt="Medical Image">
+    {% else %}
+    <p style="color: red;">Failed to verify data integrity or decrypt the details!</p>
+    {% endif %}
+</body>
+</html>

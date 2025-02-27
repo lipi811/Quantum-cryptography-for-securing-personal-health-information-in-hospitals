@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radiologist Dashboard</title>
+    <link rel="stylesheet" href="../static/styles.css">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="left-header">
+                <h1>Quantum Cryptography Key Distribution</h1>
+            </div>
+            <nav class="right-nav">
+                <ul>
+                    <li><a href="#">Welcome Radiologist</a></li>
+                    
+                    <li><a href="/">Logout</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Upload Patient Details</h1>
+        
+        <form action="{{ url_for('radiologist_dashboard') }}" method="POST" enctype="multipart/form-data" class="register-form">
+            {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category }} alert-dismissible fade show" role="alert">
+                        {{ message }}
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                {% endfor %}
+            {% endif %}
+            {% endwith %}
+
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label for="name" class="form-label">Name:</label>
+                    <input type="text" id="name" name="name" class="form-control" required>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label for="age" class="form-label">Age:</label>
+                    <input type="number" id="age" name="age" class="form-control" required>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label for="gender" class="form-label">Gender:</label>
+                    <select id="gender" name="gender" class="form-select" required>
+                        <option value="Male">Male</option>
+                        <option value="Female">Female</option>
+                    </select>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label for="phone" class="form-label">Phone:</label>
+                    <input type="text" id="phone" name="phone" class="form-control" required>
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="address" class="form-label">Address:</label>
+                <textarea id="address" name="address" class="form-control" required></textarea>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label for="disease_type" class="form-label">Disease Type:</label>
+                    <input type="text" id="disease_type" name="disease_type" class="form-control" required>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label for="medical_image" class="form-label">Upload Medical Image:</label>
+                    <input type="file" id="medical_image" name="medical_image" accept="image/*" class="form-control" required>
+                </div>
+                
+            </div>
+            <div class="row">
+           
+                <div class="col-md-6 mb-3">
+                    <label for="pemail" class="form-label">Patient Email:</label>
+                    <input type="email" id="pemail" name="pemail" class="form-control" required>
+                </div>
+                <div class="col-md-6 mb-3">
+                <label for="doctor" class="form-label">CHOOSE DOCTOR:</label>
+                <select id="doctor" name="doctor" class="form-select" required>
+                    {%for r in res%}
+                    <option value="{{r[0]}}">{{r[1]}}</option>
+                    {%endfor%}
+                </select>
+                </div>
+            
+            </div>
+           
+           
+       
+            <button type="submit" class="btn btn-primary w-100">Save Details</button>
+        </form>
+    </div>
+
+    <footer class="mt-5">
+        <p class="text-center">© 2024 Quantum Cryptography Key Distribution System. All Rights Reserved.</p>
+    </footer>
+
+    <!-- Bootstrap JS Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
